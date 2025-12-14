@@ -70,5 +70,5 @@ While source code cannot be shared, architecture, workflows, and design decision
 ---
 
 ## Contact
-📧 ahmedbarakatsamra@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/ahmed-barakat-dev)
+🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-barakat-8b7b9922/)  
+🔗 [GitHub](https://github.com/ahmedbarkat)
