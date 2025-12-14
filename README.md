@@ -36,9 +36,7 @@ Hospitals faced fragmented workflows across patient management, diagnostics, and
 - **Infrastructure:** AWS EC2, S3, RDS  
 - **Deployment / CI-CD:** Docker, GitHub Actions  
 
-> ![Architecture Diagram](diagrams/architecture.png)  
-> *Placeholder for system architecture diagram*
-
+ 
 ---
 
 ## Key Achievements
