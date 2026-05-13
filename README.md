@@ -56,7 +56,7 @@ Hospitals faced fragmented workflows across patient management, diagnostics, and
 ---
 
 ## Screenshots / Demo
-> ![Dashboard](screenshots/screen.jpeg)  
+> ![Dashboard](Screenshots/screen.jpeg)  
 > *Placeholder for HIS dashboard screenshot*
 
 ---
